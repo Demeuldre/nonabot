@@ -34,7 +34,7 @@ La mayoria de las piezas se encuentran [aqui](https://github.com/VerticalFarming
  - Soporte de madera de 1x1 metros
 
 # Esquema Hardware
-<img src="/capturas/esquema-hardware.PNG" width="500" height="300" >
+<img src="/capturas/esquema-hardware.PNG" width="500" height="324" >
 
 # Arquitectura del Software
 <img src="/capturas/esquema-software.PNG" width="500" height="300" >
