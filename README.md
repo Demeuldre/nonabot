@@ -39,7 +39,7 @@ Las piezas 3D se encuentran [aqui](https://github.com/VerticalFarming/nonabot/tr
 <img src="/capturas/esquema-hardware.PNG" width="500" height="324" >
 
 # Arquitectura del Software
-<img src="/capturas/esquema-software.png" >
+<img src="/capturas/esquema-software.png" width="500" height="542" >
 
 # Bibliografia
  - <a href="https://www.instructables.com/4xiDraw/">4xiDraw</a>
