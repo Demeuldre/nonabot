@@ -25,9 +25,19 @@ Hemos diseñao un H-Bot con el objetivo de resolver el puzle de forma autónoma 
 
 # Diseño
 <img src="/capturas/3d-general.PNG" width="500" height="344" >
-La mayoria de las piezas se encuentran [aqui](https://github.com/VerticalFarming/nonabot/tree/master/piezas)
+
+La mayoria de las piezas se encuentran [aqui](https://github.com/VerticalFarming/nonabot/tree/master/piezas).
 
  - 4x Varillas de 12mm de diámetro
  - 4x Rodamientos de 12mm de diámetro
  - 2x Correas
  - Soporte de madera de 1x1 metros
+
+# Esquema Hardware
+<img src="/capturas/esquema-hardware.PNG" width="500" height="300" >
+
+# Arquitectura del Software
+<img src="/capturas/esquema-software.PNG" width="500" height="300" >
+
+# Autores
+ - <a href="https://github.com/VerticalFarming">Eric Demeuldre Val</a>
