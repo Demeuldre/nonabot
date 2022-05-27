@@ -5,6 +5,7 @@
   * [Diseño](#diseño)
   * [Esquema Hardware](#esquema-hardware)
   * [Arquitectura del Software](#arquitectura-del-software)
+  * [Video](#video)
   * [Bibliografia](#bibliografia)
   * [Autores](#autores)
   
