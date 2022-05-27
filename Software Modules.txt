@@ -1,0 +1,9 @@
+Software Modules
+
+Scanner 
+
+Image Capture -> Image processing -> Nono solving
+
+Motion Planner -> Inverse Kinematics -> Motor controller -> Handler controller
+
+Result Validation
