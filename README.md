@@ -40,4 +40,6 @@ La mayoria de las piezas se encuentran [aqui](https://github.com/VerticalFarming
 <img src="/capturas/esquema-software.PNG" width="500" height="300" >
 
 # Autores
+ - <a href="https://github.com/oscar-sanchez27">Oscar Sanchez Lima</a>
  - <a href="https://github.com/VerticalFarming">Eric Demeuldre Val</a>
+ - <a href="https://github.com/JoelFerrando">Joel Ferrando</a>
