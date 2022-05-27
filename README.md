@@ -5,7 +5,9 @@
   * [Diseño](#diseño)
   * [Esquema Hardware](#esquema-hardware)
   * [Arquitectura del Software](#arquitectura-del-software)
+  * [Bibliografia](#bibliografia)
   * [Autores](#autores)
+  
 
 # ¿Qué es?
 El Nonabot es un robot capaz de resolver nonogramas.
@@ -38,6 +40,9 @@ La mayoria de las piezas se encuentran [aqui](https://github.com/VerticalFarming
 
 # Arquitectura del Software
 <img src="/capturas/esquema-software.PNG" width="500" height="300" >
+
+# Bibliografia
+ - <a href="https://www.instructables.com/4xiDraw/">4xiDraw</a>
 
 # Autores
  - <a href="https://github.com/oscar-sanchez27">Oscar Sanchez Lima</a>
