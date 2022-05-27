@@ -2,7 +2,7 @@
   * [¿Qué es?](#que-es)
   * [Descripción del Robot](#descripción-del-robot)
   * [Componentes Electrónicos](#componentes-electrónicos)
-  * [Componentes Estructurales](#componentes-estructurales)
+  * [Diseño](#diseño)
   * [Esquema Hardware](#esquema-hardware)
   * [Arquitectura del Software](#arquitectura-del-software)
   * [Autores](#autores)
@@ -22,4 +22,9 @@ Hemos diseñao un H-Bot con el objetivo de resolver el puzle de forma autónoma 
   - Servomotor 8.5G
   - Fuente de alimentación ATX
 
-# Componentes estructurales
+# Diseño
+La mayoria de las piezas que conforman este robot se encuentran en el mismo [repositorio](https://github.com/VerticalFarming/nonabot/tree/master/piezas).
+ - 4x Varillas de 12mm de diámetro
+ - Soporte de madera de 1x1 metros
+ - 4x Rodamientos de 12mm de diámetro
+ - 2x Correas
