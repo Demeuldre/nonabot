@@ -9,6 +9,17 @@
   * [Bibliografia](#bibliografia)
   * [Autores](#autores)
   
+# Requerimientos
+
+For running each sample code:
+- [Python 3.10.x](https://www.python.org/)
+- [NumPy](https://numpy.org/)
+- [Opencv](https://opencv.org/)
+- [Keras](https://keras.io/)
+
+For development:
+  
+- pytest (for unit tests)
 
 # ¿Qué es?
 El Nonabot es un robot capaz de resolver nonogramas.
