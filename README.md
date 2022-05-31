@@ -1,6 +1,7 @@
 # Tabla de contenidos
   * [¿Qué es?](#que-es)
   * [Requerimientos](#requerimientos)
+  * [Como utilizar](#como-utlizar)
   * [Descripción del Robot](#descripción-del-robot)
   * [Componentes Electrónicos](#componentes-electrónicos)
   * [Diseño](#diseño)
@@ -21,6 +22,14 @@ For running each sample code:
 For development:
   
 - pytest (for unit tests)
+
+# Como utilizar 
+1. Clonar este repositiorio 
+ > https://github.com/VerticalFarming/nonabot.git
+2. Instalar el siguiente txt.
+ usando pip: 
+  pip install -r src/requirements.txt
+3. Ejecutar el script de python en cada directorio.
 
 # ¿Qué es?
 El Nonabot es un robot capaz de resolver nonogramas.
