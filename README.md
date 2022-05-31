@@ -1,7 +1,7 @@
 # Tabla de contenidos
   * [¿Qué es?](#que-es)
   * [Requerimientos](#requerimientos)
-  * [Como utilizar](#como-utlizar)
+  * [Como utilizar](#como-utilizar)
   * [Descripción del Robot](#descripción-del-robot)
   * [Componentes Electrónicos](#componentes-electrónicos)
   * [Diseño](#diseño)
