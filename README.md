@@ -27,7 +27,9 @@ For development:
 1. Clonar este repositiorio 
  > https://github.com/VerticalFarming/nonabot.git
 2. Instalar el siguiente txt.
+
  usando pip: 
+ 
   pip install -r src/requirements.txt
 3. Ejecutar el script de python en cada directorio.
 
