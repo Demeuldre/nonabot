@@ -73,6 +73,7 @@ Las piezas 3D se encuentran [aqui](https://github.com/VerticalFarming/nonabot/tr
 
 # Bibliografia
  - <a href="https://www.instructables.com/4xiDraw/">4xiDraw</a>
+ - <a href="https://becominghuman.ai/image-processing-sudokuai-opencv-45380715a629">ImageProcessing</a>
 
 # Autores
  - <a href="https://github.com/oscar-sanchez27">Oscar Sanchez Lima</a>
