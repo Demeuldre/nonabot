@@ -30,7 +30,8 @@ For development:
 
  usando pip: 
  
-  pip install -r src/requirements.txt
+   pip install -r src/requirements.txt
+   
 3. Ejecutar el script de python en cada directorio.
 
 # ¿Qué es?
