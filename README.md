@@ -5,7 +5,7 @@
   * [Diseño](#diseño)
   * [Esquema Hardware](#esquema-hardware)
   * [Arquitectura del Software](#arquitectura-del-software)
-  * [Video](#video)
+  * [Fotos](#video)
   * [Bibliografia](#bibliografia)
   * [Autores](#autores)
   
@@ -42,7 +42,7 @@ Las piezas 3D se encuentran [aqui](https://github.com/VerticalFarming/nonabot/tr
 # Arquitectura del Software
 <img src="/capturas/esquema-software.png" width="500" height="542" >
 
-# Video
+# Fotos
 blablabla
 
 # Bibliografia
